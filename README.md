@@ -32,13 +32,6 @@ Deep learning framework integrating imaging and clinical data for cancer outcome
 
 ---
 
-### Probabilistic Graphical Models Inference Engine
-Implemented variable elimination and junction tree inference algorithms for Ising models.
-
-**Tech:** Python, Probabilistic ML, Graph Algorithms
-
----
-
 ### Capacitated Vehicle Routing Problem (CVRP)
 MILP formulation and optimization using Julia/JuMP and HiGHS.
 
