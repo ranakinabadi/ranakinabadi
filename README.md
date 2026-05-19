@@ -58,5 +58,5 @@ MILP formulation and optimization using Julia/JuMP and HiGHS.
 ## Contact
 
 
-- LinkedIn: https://linkedin.com/in/rana-kinabadi
+- LinkedIn: https://linkedin.com/in/rana-kinabadi-644351220
 - Email: rkinabadi@gmail.com
