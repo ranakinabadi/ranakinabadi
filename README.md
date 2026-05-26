@@ -18,7 +18,7 @@ Focused on **Generative Models for Healthcare** - developing probabilistic and d
 
 ## Featured Projects
 
-###  Multimodal Cancer Prognosis
+###  Multimodal Cancer Prognosis(`multimodal-cancer-prognosis`)
 Deep learning framework integrating imaging and clinical data for cancer outcome prediction in NSCLC patients (TCIA dataset, n=200).  
 **Tech:** PyTorch · MONAI · Survival Analysis
 
